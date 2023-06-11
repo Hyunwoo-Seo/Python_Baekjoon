@@ -1,2 +1,2 @@
-A = str(input())
-print(A + '??!')
+A = input()[:50]
+print(A+'??!')
